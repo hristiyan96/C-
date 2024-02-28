@@ -1,0 +1,15 @@
+C:\Users\HV\source\repos\C# Basic Syntax Lab\07.Theatre Promotion\bin\Debug\net6.0\07.Theatre Promotion.exe
+C:\Users\HV\source\repos\C# Basic Syntax Lab\07.Theatre Promotion\bin\Debug\net6.0\07.Theatre Promotion.deps.json
+C:\Users\HV\source\repos\C# Basic Syntax Lab\07.Theatre Promotion\bin\Debug\net6.0\07.Theatre Promotion.runtimeconfig.json
+C:\Users\HV\source\repos\C# Basic Syntax Lab\07.Theatre Promotion\bin\Debug\net6.0\07.Theatre Promotion.dll
+C:\Users\HV\source\repos\C# Basic Syntax Lab\07.Theatre Promotion\bin\Debug\net6.0\07.Theatre Promotion.pdb
+C:\Users\HV\source\repos\C# Basic Syntax Lab\07.Theatre Promotion\obj\Debug\net6.0\07.Theatre Promotion.csproj.AssemblyReference.cache
+C:\Users\HV\source\repos\C# Basic Syntax Lab\07.Theatre Promotion\obj\Debug\net6.0\07.Theatre Promotion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HV\source\repos\C# Basic Syntax Lab\07.Theatre Promotion\obj\Debug\net6.0\07.Theatre Promotion.AssemblyInfoInputs.cache
+C:\Users\HV\source\repos\C# Basic Syntax Lab\07.Theatre Promotion\obj\Debug\net6.0\07.Theatre Promotion.AssemblyInfo.cs
+C:\Users\HV\source\repos\C# Basic Syntax Lab\07.Theatre Promotion\obj\Debug\net6.0\07.Theatre Promotion.csproj.CoreCompileInputs.cache
+C:\Users\HV\source\repos\C# Basic Syntax Lab\07.Theatre Promotion\obj\Debug\net6.0\07.Theatre Promotion.dll
+C:\Users\HV\source\repos\C# Basic Syntax Lab\07.Theatre Promotion\obj\Debug\net6.0\refint\07.Theatre Promotion.dll
+C:\Users\HV\source\repos\C# Basic Syntax Lab\07.Theatre Promotion\obj\Debug\net6.0\07.Theatre Promotion.pdb
+C:\Users\HV\source\repos\C# Basic Syntax Lab\07.Theatre Promotion\obj\Debug\net6.0\07.Theatre Promotion.genruntimeconfig.cache
+C:\Users\HV\source\repos\C# Basic Syntax Lab\07.Theatre Promotion\obj\Debug\net6.0\ref\07.Theatre Promotion.dll
