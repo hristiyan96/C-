@@ -1,0 +1,15 @@
+C:\Users\HV\source\repos\C# Basic Syntax Lab\04.Back in 30 minutes\bin\Debug\net6.0\04.Back in 30 minutes.exe
+C:\Users\HV\source\repos\C# Basic Syntax Lab\04.Back in 30 minutes\bin\Debug\net6.0\04.Back in 30 minutes.deps.json
+C:\Users\HV\source\repos\C# Basic Syntax Lab\04.Back in 30 minutes\bin\Debug\net6.0\04.Back in 30 minutes.runtimeconfig.json
+C:\Users\HV\source\repos\C# Basic Syntax Lab\04.Back in 30 minutes\bin\Debug\net6.0\04.Back in 30 minutes.dll
+C:\Users\HV\source\repos\C# Basic Syntax Lab\04.Back in 30 minutes\bin\Debug\net6.0\04.Back in 30 minutes.pdb
+C:\Users\HV\source\repos\C# Basic Syntax Lab\04.Back in 30 minutes\obj\Debug\net6.0\04.Back in 30 minutes.csproj.AssemblyReference.cache
+C:\Users\HV\source\repos\C# Basic Syntax Lab\04.Back in 30 minutes\obj\Debug\net6.0\04.Back in 30 minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HV\source\repos\C# Basic Syntax Lab\04.Back in 30 minutes\obj\Debug\net6.0\04.Back in 30 minutes.AssemblyInfoInputs.cache
+C:\Users\HV\source\repos\C# Basic Syntax Lab\04.Back in 30 minutes\obj\Debug\net6.0\04.Back in 30 minutes.AssemblyInfo.cs
+C:\Users\HV\source\repos\C# Basic Syntax Lab\04.Back in 30 minutes\obj\Debug\net6.0\04.Back in 30 minutes.csproj.CoreCompileInputs.cache
+C:\Users\HV\source\repos\C# Basic Syntax Lab\04.Back in 30 minutes\obj\Debug\net6.0\04.Back in 30 minutes.dll
+C:\Users\HV\source\repos\C# Basic Syntax Lab\04.Back in 30 minutes\obj\Debug\net6.0\refint\04.Back in 30 minutes.dll
+C:\Users\HV\source\repos\C# Basic Syntax Lab\04.Back in 30 minutes\obj\Debug\net6.0\04.Back in 30 minutes.pdb
+C:\Users\HV\source\repos\C# Basic Syntax Lab\04.Back in 30 minutes\obj\Debug\net6.0\04.Back in 30 minutes.genruntimeconfig.cache
+C:\Users\HV\source\repos\C# Basic Syntax Lab\04.Back in 30 minutes\obj\Debug\net6.0\ref\04.Back in 30 minutes.dll

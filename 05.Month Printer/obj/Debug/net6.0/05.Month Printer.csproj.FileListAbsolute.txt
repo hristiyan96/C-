@@ -1,0 +1,15 @@
+C:\Users\HV\source\repos\C# Basic Syntax Lab\05.Month Printer\obj\Debug\net6.0\05.Month Printer.csproj.AssemblyReference.cache
+C:\Users\HV\source\repos\C# Basic Syntax Lab\05.Month Printer\obj\Debug\net6.0\05.Month Printer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HV\source\repos\C# Basic Syntax Lab\05.Month Printer\obj\Debug\net6.0\05.Month Printer.AssemblyInfoInputs.cache
+C:\Users\HV\source\repos\C# Basic Syntax Lab\05.Month Printer\obj\Debug\net6.0\05.Month Printer.AssemblyInfo.cs
+C:\Users\HV\source\repos\C# Basic Syntax Lab\05.Month Printer\obj\Debug\net6.0\05.Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\HV\source\repos\C# Basic Syntax Lab\05.Month Printer\bin\Debug\net6.0\05.Month Printer.exe
+C:\Users\HV\source\repos\C# Basic Syntax Lab\05.Month Printer\bin\Debug\net6.0\05.Month Printer.deps.json
+C:\Users\HV\source\repos\C# Basic Syntax Lab\05.Month Printer\bin\Debug\net6.0\05.Month Printer.runtimeconfig.json
+C:\Users\HV\source\repos\C# Basic Syntax Lab\05.Month Printer\bin\Debug\net6.0\05.Month Printer.dll
+C:\Users\HV\source\repos\C# Basic Syntax Lab\05.Month Printer\bin\Debug\net6.0\05.Month Printer.pdb
+C:\Users\HV\source\repos\C# Basic Syntax Lab\05.Month Printer\obj\Debug\net6.0\05.Month Printer.dll
+C:\Users\HV\source\repos\C# Basic Syntax Lab\05.Month Printer\obj\Debug\net6.0\refint\05.Month Printer.dll
+C:\Users\HV\source\repos\C# Basic Syntax Lab\05.Month Printer\obj\Debug\net6.0\05.Month Printer.pdb
+C:\Users\HV\source\repos\C# Basic Syntax Lab\05.Month Printer\obj\Debug\net6.0\05.Month Printer.genruntimeconfig.cache
+C:\Users\HV\source\repos\C# Basic Syntax Lab\05.Month Printer\obj\Debug\net6.0\ref\05.Month Printer.dll
