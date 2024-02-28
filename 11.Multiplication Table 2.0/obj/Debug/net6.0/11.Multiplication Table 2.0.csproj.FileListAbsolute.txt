@@ -1,0 +1,15 @@
+C:\Users\HV\source\repos\C# Basic Syntax Lab\11.Multiplication Table 2.0\bin\Debug\net6.0\11.Multiplication Table 2.0.exe
+C:\Users\HV\source\repos\C# Basic Syntax Lab\11.Multiplication Table 2.0\bin\Debug\net6.0\11.Multiplication Table 2.0.deps.json
+C:\Users\HV\source\repos\C# Basic Syntax Lab\11.Multiplication Table 2.0\bin\Debug\net6.0\11.Multiplication Table 2.0.runtimeconfig.json
+C:\Users\HV\source\repos\C# Basic Syntax Lab\11.Multiplication Table 2.0\bin\Debug\net6.0\11.Multiplication Table 2.0.dll
+C:\Users\HV\source\repos\C# Basic Syntax Lab\11.Multiplication Table 2.0\bin\Debug\net6.0\11.Multiplication Table 2.0.pdb
+C:\Users\HV\source\repos\C# Basic Syntax Lab\11.Multiplication Table 2.0\obj\Debug\net6.0\11.Multiplication Table 2.0.csproj.AssemblyReference.cache
+C:\Users\HV\source\repos\C# Basic Syntax Lab\11.Multiplication Table 2.0\obj\Debug\net6.0\11.Multiplication Table 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HV\source\repos\C# Basic Syntax Lab\11.Multiplication Table 2.0\obj\Debug\net6.0\11.Multiplication Table 2.0.AssemblyInfoInputs.cache
+C:\Users\HV\source\repos\C# Basic Syntax Lab\11.Multiplication Table 2.0\obj\Debug\net6.0\11.Multiplication Table 2.0.AssemblyInfo.cs
+C:\Users\HV\source\repos\C# Basic Syntax Lab\11.Multiplication Table 2.0\obj\Debug\net6.0\11.Multiplication Table 2.0.csproj.CoreCompileInputs.cache
+C:\Users\HV\source\repos\C# Basic Syntax Lab\11.Multiplication Table 2.0\obj\Debug\net6.0\11.Multiplication Table 2.0.dll
+C:\Users\HV\source\repos\C# Basic Syntax Lab\11.Multiplication Table 2.0\obj\Debug\net6.0\refint\11.Multiplication Table 2.0.dll
+C:\Users\HV\source\repos\C# Basic Syntax Lab\11.Multiplication Table 2.0\obj\Debug\net6.0\11.Multiplication Table 2.0.pdb
+C:\Users\HV\source\repos\C# Basic Syntax Lab\11.Multiplication Table 2.0\obj\Debug\net6.0\11.Multiplication Table 2.0.genruntimeconfig.cache
+C:\Users\HV\source\repos\C# Basic Syntax Lab\11.Multiplication Table 2.0\obj\Debug\net6.0\ref\11.Multiplication Table 2.0.dll
